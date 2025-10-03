@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@theme {
+  --color-black-soft: #101010;
+  --color-black-medium: #191919;
+  --color-black-dark: #000000;
+  --color-gray-soft: #f1f1f1;
+  --color-gray-medium: #9f9f9f;
+  --color-gray-dark: #4f4f4f;
+  --color-white-smoke: #fafafa;
+  --color-white-strong: #ffffff;
+  --color-orange-strong: #d87d4a;
+  --color-orange-soft: #fbaf85;
+
+  --font-manrope: var(--font-manrope);
+}
+
+.btn-primary {
+  @apply py-3 px-7 h-13 bg-orange-strong text-white-strong font-semibold hover:bg-orange-soft text-[14px] lg:text-[15px] cursor-pointer tracking-[1.2];
+}
+
+.btn-secondary {
+  @apply py-3 px-7 h-13 bg-transparent border border-black-dark text-black-dark font-semibold hover:bg-black-dark hover:text-white-smoke text-[14px] lg:text-[15px] cursor-pointer tracking-[1.2];
+}
+
+.btn-black {
+  @apply py-3 px-7 h-13 bg-black-soft text-white-smoke font-semibold hover:bg-gray-dark text-[14px] lg:text-[15px] cursor-pointer tracking-[1.2];
+}
+
+.icon-navBar {
+  @apply text-2xl hover:text-orange-strong cursor-pointer;
+}
+
+.icon-footer {
+  @apply text-3xl text-white-smoke hover:text-orange-strong cursor-pointer;
+}
+
+.nav-items {
+  @apply hover:text-orange-strong  tracking-[1] lg:font-semibold;
+}
+
+.label-form {
+  @apply font-semibold text-[17px];
+}
+
+.label-form-2 {
+  @apply font-semibold text-[14px];
+}
+
+.label-input {
+  @apply p-1 mb-2 rounded bg-white-strong;
+}
+
+.label-input-2 {
+  @apply mb-2 rounded-lg bg-white-strong py-3  border border-gray-soft px-5 text-[14px];
+}
+
+.return-btn {
+  @apply text-gray-dark font-normal pt-7 text-[14px] lg:pt-0 lg:mb-0 hover:text-orange-strong cursor-pointer px-7 lg:px-30;
+}
+
+html {
+  font-family: var(--font-manrope);
+  background: var(--color-black-medium);
+}
