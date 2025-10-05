@@ -14,15 +14,15 @@ Frontend del proyecto **Ecommerce Audiophile**, una tienda online para equipos d
 
 ### Home
 
-![Home Screenshot](images/screenshots/home.webp)
+![Home Screenshot](public/images/screenshots/home.webp)
 
 ### Responsive
 
-![Mobile Screenshot](images/screenshots/mobile.webp)
+![Mobile Screenshot](public/images/screenshots/mobile.webp)
 
 ### Checkout
 
-![Checkout Screenshot](images/screenshots/checkout.webp)
+![Checkout Screenshot](public/images/screenshots/checkout.webp)
 
 ---
 
