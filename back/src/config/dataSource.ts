@@ -17,6 +17,9 @@ export const AppDataSource = new DataSource({
   // dropSchema: true,
   logging: false,
   entities: [User, Credential, Order, Product, Category],
+  ssl: {
+    rejectUnauthorized: false,
+  },
   subscribers: [],
   migrations: [],
 });
