@@ -6,9 +6,7 @@ Frontend del proyecto **Ecommerce Audiophile**, una tienda online para equipos d
 
 ## 🚀 Demo en Producción
 
-🔗 [Ver el sitio en vivo](https://ecommerce-audiophile.vercel.app)
-
----
+🔗 [Ver el sitio en vivo](https://ecommerce-audiophile-five.vercel.app/)
 
 ## 🖼️ Vista Previa
 
