@@ -33,7 +33,7 @@ Ofrece navegación intuitiva, carrito de compras, checkout con validación y dis
 
 | Página de inicio                         | Página de productos por categoría             | Checkout                                      |
 | ---------------------------------------- | --------------------------------------------- | --------------------------------------------- |
-| ![Inicio](front/public//assets/home.png) | ![Producto](front/public/assets/products.png) | ![Checkout](front/assets/public/checkout.png) |
+| ![Inicio](front/public//assets/home.png) | ![Producto](front/public/assets/products.png) | ![Checkout](front/public/assets/checkout.png) |
 
 ---
 
