@@ -31,7 +31,7 @@ Ofrece navegación intuitiva, carrito de compras, checkout con validación y dis
 
 ## 🖼️ Capturas del sitio
 
-| Página de inicio                 | Detalle de producto                    | Checkout                               |
+| Página de inicio                 | Página de productos por categoría      | Checkout                               |
 | -------------------------------- | -------------------------------------- | -------------------------------------- |
 | ![Inicio](front/assets/home.png) | ![Producto](front/assets/products.png) | ![Checkout](front/assets/checkout.png) |
 
